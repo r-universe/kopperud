@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ACDC"]
+	path = ACDC
+	url = https://github.com/cran/ACDC
+	shallow = true
+	registered = true
 [submodule "slouch"]
 	path = slouch
 	url = https://github.com/kopperud/slouch
